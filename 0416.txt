@@ -1,4 +1,3 @@
-﻿央视 ,#genre#
 CCTV-1 综合,http://110.80.17.38:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV-1 综合,http://gzly.hkychina.com:6001/rtp/239.252.219.200:5140?Cf=cfss.cc
 CCTV-1 综合,http://123.118.51.157:8888/rtp/239.3.1.129:8008
